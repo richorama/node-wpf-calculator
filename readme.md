@@ -14,7 +14,7 @@ Commands fired in WPF result in the functions being called in JavaScript. So all
 
 JavaScript can then send updates through to the data context to update the display on the calculator.
 
-## Installation
+## Install
 
 ```
 $ npm install
