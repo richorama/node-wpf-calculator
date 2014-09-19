@@ -6,7 +6,7 @@ A demonstration of Node.js - WPF interop using edge.js.
 
 ## Description
 
-This node application uses [edge.js](https://github.com/tjanczuk/edge) to host a WPF form loaded from a XAML file (thanks @gblock). 
+This node application uses [edge.js](https://github.com/tjanczuk/edge) to host a WPF form loaded from a XAML file (thanks [Glenn](https://twitter.com/gblock)). 
 
 You can pass in a JavaScript object with properties and methods. The C# code converts the methods to RelayCommands, and the object is then data bound to the window.
 
