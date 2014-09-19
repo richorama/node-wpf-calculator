@@ -1,4 +1,4 @@
-# Node Calculator
+# Node-WPF Calculator
 
 A demonstration of Node.js - WPF interop using edge.js.
 
